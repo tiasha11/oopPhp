@@ -25,4 +25,6 @@ echo "Sum of  1st Object: " .$obj->sum(). "<br>";
 echo "Subtract of  1st Object: " .$obj->sub(). "<br>";
 echo "Sum of 2nd Object: " .$object->sum(). "<br>";
 echo "Subtract of 2nd Object: ".$object->sub();
+
+echo "Hello World";
 ?>
